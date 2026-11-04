@@ -72,15 +72,15 @@ project_perpustakaan/
 | Halaman | Screenshot |
 |---|---|
 | Login | ![Login](screenshots/login.png) |
-| Dashboard (Read) | ![Dashboard](screenshots/dashboard.png) |
-| Tambah Buku (Create) | ![Tambah](screenshots/tambah.png) |
-| Edit Buku (Update) | ![Edit](screenshots/edit.png) |
+| Dashboard (Read) | ![Dashboard](screenshots/dasboard.png) |
+| Tambah Buku (Create) | ![Tambah](screenshots/tambah buku sql.png) |
+| Edit Buku (Update) | ![Edit](screenshots/tambah buku.png) |
 | Hapus Buku (Delete) | ![Hapus](screenshots/hapus.png) |
 
 ## Video Demo
-[Tonton di YouTube](GANTI_DENGAN_LINK_YOUTUBE)
+[Tonton di YouTube](https://youtu.be/jfDw4okRqhg?si=gRHYZKaKNmmoNIo_)
 
 ## Identitas
 - Nama: Titania
 - NPM: 2513020080
-- Kelas: 1A Sistem Informasi, Universitas Nusantara PGRI Kediri
+- Kelas: 2A Sistem Informasi, Universitas Nusantara PGRI Kediri
