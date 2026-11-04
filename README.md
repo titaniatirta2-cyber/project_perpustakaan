@@ -74,7 +74,7 @@ project_perpustakaan/
 | Login | ![Login](screenshots/login.png) |
 | Dashboard (Read) | ![Dashboard](screenshots/dasboard.png) |
 | Tambah Buku (Create) | ![Tambah](screenshots/tambahbuku.png) |
-| Edit Buku (Update) | ![Edit](screenshots/edit.png) |
+| Edit Buku (Update) | ![Edit](screenshots/edit1.png) |
 | Hapus Buku (Delete) | ![Hapus](screenshots/hapus.png) |
 
 ## Video Demo
