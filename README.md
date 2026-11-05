@@ -42,7 +42,7 @@ project_perpustakaan/
 4. Sesuaikan kredensial database di `config/koneksi.php` bila perlu.
 5. Buka `http://localhost/project_perpustakaan/`.
 
-**Akun default:** username `admin`, password `admin123`
+**Akun default:** username `admin`, password `123456`
 
 ## Struktur Tabel Database
 
